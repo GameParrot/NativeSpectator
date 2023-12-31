@@ -1,0 +1,9 @@
+name: NativeSpectator
+main: GameParrot\NativeSpectator\Main
+src-namespace-prefix: GameParrot\NativeSpectator
+version: 1.0.0
+api: [5.0.0]
+load: POSTWORLD
+author: GameParrot
+description: Pocketmine plugin that makes players in spectator mode use native spectator mode
+website: https://github.com/GameParrot/NativeSpectator
